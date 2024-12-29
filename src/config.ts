@@ -1,10 +1,10 @@
-import CedSoftOSWhite from "./App/CedSoftOSWhite.png"
-import CedSoftOSBlack from "./App/CedSoftOSBlack.png"
+import CedSoftOSWhite from "./App/HackHPI_white_shortHPI.svg"
+import CedSoftOSBlack from "./App/HackHPI_white_shortHPI.svg"
 
 const config = {
     palette: {
-        primaryColor: "#1976d2",
-        secondaryColor: "#e57373",
+        primaryColor: "#000000",
+        secondaryColor: "#000000",
     },
     logo: {
         light: CedSoftOSWhite,
